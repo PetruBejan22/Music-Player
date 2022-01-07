@@ -1,4 +1,6 @@
-# Music-Player
+## Music Player
+
+![MusicPlayer_image](https://user-images.githubusercontent.com/97281022/148554149-06488549-073c-4fd9-b2d2-35c53b33b685.jpg)
 
 The program only supports "mp3" format
 ##### *** Options for playback:
