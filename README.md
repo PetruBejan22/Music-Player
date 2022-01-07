@@ -2,6 +2,8 @@
 
 ![MusicPlayer_image](https://user-images.githubusercontent.com/97281022/148554149-06488549-073c-4fd9-b2d2-35c53b33b685.jpg)
 
+#### [petrubejan.epizy.com](http://petrubejan.epizy.com) to download exe file
+
 The program only supports "mp3" format
 ##### *** Options for playback:
 	-repeat the current song
